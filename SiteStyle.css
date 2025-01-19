@@ -35,7 +35,7 @@ body{
 
         .social-media-link h1 {
             margin: 2px 20px; 
-	    color: rgba(168, 50, 50, 1);
+	    color: rgba(217, 214, 207, 1);
         }
 
         .social-media-link img {
@@ -81,5 +81,5 @@ body{
         }
 
         .code-container button:hover {
-            background-color: #A83232;
+            background-color: #D9D6CF;
         }
