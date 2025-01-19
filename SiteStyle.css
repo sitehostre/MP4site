@@ -15,7 +15,7 @@ body{
             display: flex;
             flex-direction: column;
             align-items: center;
-            background: rgba(209, 167, 42, 0.8);
+            background: rgba(139, 0, 0, 0.7);
             padding: 20px;
             border-radius: 10px;
             width: 75%;
@@ -50,7 +50,7 @@ body{
         }
 
         .code-container {
-            background: rgba(209, 167, 42, 0.7);
+            background: rgba(139, 0, 0, 0.7);
             padding: 15px;
             border-radius: 10px;
             text-align: center;
