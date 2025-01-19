@@ -80,6 +80,6 @@ body{
             transition: background-color 0.3s;
         }
 
-        .code-container button:hover {
+.code-container button:hover {
             background-color: #D9D6CF;
         }
